@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pravinbhattarai123
-- 👀 I’m interested in ...coading,developing, and perfecting me day by day 
+- 👀 I’m interested in ...coding,developing, and perfecting me day by day 
 - 🌱 I’m currently learning ...web development and ai and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... linkdin@pravinbhattarai
